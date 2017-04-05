@@ -9,6 +9,8 @@
     <body>
 		<div class="container">
             {content}
+            <p class="footer">Page rendered in <strong>0.0155</strong> seconds. 
+                {ci_version}</p>
         </div>
     </body>
 </html>
