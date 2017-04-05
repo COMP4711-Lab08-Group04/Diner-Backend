@@ -1,1 +1,0 @@
-<button type="submit" title="{title}">{label}</button>
